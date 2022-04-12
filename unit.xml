@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.5320" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-20T10:43:25" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Filter app 
+" timestamp="2022-03-20T10:43:25" tests="6" file="C:\Users\Addmin\Documents\NodeJS\filter-app\test\test.js" time="0.5320" failures="0">
+    <testcase name="Filter app 
+ OnLoad" time="0.0070" classname="OnLoad">
+    </testcase>
+    <testcase name="Filter app 
+ above" time="0.0950" classname="above">
+    </testcase>
+    <testcase name="Filter app 
+ below" time="0.1180" classname="below">
+    </testcase>
+    <testcase name="Filter app 
+ between" time="0.1360" classname="between">
+    </testcase>
+    <testcase name="Filter app 
+ on clicking clear button" time="0.1090" classname="on clicking clear button">
+    </testcase>
+    <testcase name="Filter app 
+ on Empty field" time="0.0670" classname="on Empty field">
+    </testcase>
+  </testsuite>
+</testsuites>
